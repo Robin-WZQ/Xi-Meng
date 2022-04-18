@@ -7,6 +7,8 @@
 ![Love](https://img.shields.io/badge/Made%20with-love-ff69b4)
 ![Version](https://img.shields.io/badge/version-1.0-red)
 
+[中文](https://github.com/Robin-WZQ/Xi-Meng/main) | [English](https://github.com/Robin-WZQ/Xi-Meng/english)
+
 > 前有清华九歌赋诗，
 >
 > 后有北理希孟作画。
