@@ -14,3 +14,6 @@
 有关数据集获取及更详细的说明请参考[这里](https://github.com/Robin-WZQ/Xi-Meng-Dataset)。
 
 ## 模型
+<div align=center>
+    <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/model.png width="600"/>
+</div>
