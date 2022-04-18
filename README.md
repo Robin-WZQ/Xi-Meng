@@ -15,5 +15,5 @@
 
 ## 模型
 <div align=center>
-    <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/model.png width="600"/>
+    <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/model.png width="700"/>
 </div>
