@@ -20,7 +20,7 @@ For dataset acquisition and more detailed description, please refer to [HERE](ht
     <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/model.png width="600"/>
 </div>
 
-we introduce a novel generative model to generate paintings with high-precision contours and any given style of landscape painting. Specifically, the model includes three stages, generating the Contour, Base Color, and Style Color based on GANs (3CGAN) in turn.
+we introduce a novel generative model to generate paintings with high-precision contours and any given style of landscape painting. Specifically, the model includes three stages, generating the Contour, Base Color, and Style Color based on GANs in turn.
 
 The model does not need to rely on any conditional input given by the user (i.e. photos and user-defined contours), and can generate a landscape painting with high-precision contours and any target style.
 
