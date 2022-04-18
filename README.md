@@ -15,7 +15,7 @@
 
 To advance our experiment, a new dataset of traditional Chinese landscape paintings is released, with 485 clear contours and 105 contour-color matching pairs drawing by writing brush
 
-For dataset acquisition and more detailed description, please refer to [HERE](https://github.com/Robin-WZQ/Xi-Meng-Dataset)。
+For dataset acquisition and more detailed description, please refer to [HERE](https://github.com/Robin-WZQ/Xi-Meng-Dataset/tree/english)。
 
 ## Model
 <div align=center>
