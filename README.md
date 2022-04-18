@@ -9,6 +9,8 @@
 
 > A system for Chinese Landscape generation.
 
+[中文](https://github.com/Robin-WZQ/Xi-Meng) | [English](https://github.com/Robin-WZQ/Xi-Meng/tree/English)
+
 ## Datasets
 
 To advance our experiment, a new dataset of traditional Chinese landscape paintings is released, with 485 clear contours and 105 contour-color matching pairs drawing by writing brush
