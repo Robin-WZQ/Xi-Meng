@@ -7,6 +7,10 @@
 ![Love](https://img.shields.io/badge/Made%20with-love-ff69b4)
 ![Version](https://img.shields.io/badge/version-1.0-red)
 
+> 前有清华九歌赋诗，
+>
+> 后有北理希孟作画。
+
 ## 数据集
 
 我们与艺术家合作，共同构建了485张由毛笔绘制的纯线条轮廓以及105张“轮廓-基础色”匹配对。
