@@ -31,5 +31,5 @@
 
 ## 系统
 <div align=center>
-    <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/system.png width="800"/>
+    <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/system.png width="600"/>
 </div>
