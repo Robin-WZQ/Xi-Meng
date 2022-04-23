@@ -1,5 +1,5 @@
 <div align=center>
-    <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/logo.png width="600"/>
+    <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/logo.png width="500"/>
 </div>
 
 # Xi Meng
