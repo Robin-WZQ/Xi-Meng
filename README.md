@@ -34,6 +34,4 @@
     <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/system.png width="600"/>
 </div>
 
-有关系统的下载和使用说明请看[此处]()
-
-提取码：
+【参加比赛所以制作的项目主页，暂不打算开源】
