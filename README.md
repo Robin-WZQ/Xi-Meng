@@ -9,6 +9,8 @@
 
 [中文](https://github.com/Robin-WZQ/Xi-Meng) | [English](https://github.com/Robin-WZQ/Xi-Meng/tree/English)
 
+【参加比赛所以制作的项目主页，暂不打算开源】
+
 ## 数据集
 
 我们与艺术家合作，共同构建了485张由毛笔绘制的纯线条轮廓以及105张“轮廓-基础色”匹配对。
@@ -34,4 +36,3 @@
     <img src=https://github.com/Robin-WZQ/Xi-Meng/blob/main/assets/system.png width="600"/>
 </div>
 
-【参加比赛所以制作的项目主页，暂不打算开源】
