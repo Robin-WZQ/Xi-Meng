@@ -9,7 +9,7 @@
 
 > A system for Chinese Landscape generation.
 
-[中文](https://github.com/Robin-WZQ/Xi-Meng) | [English](https://github.com/Robin-WZQ/Xi-Meng/tree/English)
+[中文](https://github.com/Robin-WZQ/Xi-Meng) | [English](https://github.com/Robin-WZQ/Xi-Meng/tree/main)
 
 ## Datasets
 
